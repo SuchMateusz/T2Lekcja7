@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja7-operatory", "Lekcja7-operatory\Lekcja7-operatory.csproj", "{B4EC8445-D6F5-402A-81D1-EC284DDB870F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4EC8445-D6F5-402A-81D1-EC284DDB870F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EC8445-D6F5-402A-81D1-EC284DDB870F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EC8445-D6F5-402A-81D1-EC284DDB870F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EC8445-D6F5-402A-81D1-EC284DDB870F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15640C4-21D3-48BC-8F1C-C5451E7DDD24}
+	EndGlobalSection
+EndGlobal

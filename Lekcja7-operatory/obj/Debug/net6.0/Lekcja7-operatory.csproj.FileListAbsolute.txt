@@ -1,0 +1,15 @@
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\Lekcja7-operatory.csproj.AssemblyReference.cache
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\Lekcja7-operatory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\Lekcja7-operatory.AssemblyInfoInputs.cache
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\Lekcja7-operatory.AssemblyInfo.cs
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\Lekcja7-operatory.csproj.CoreCompileInputs.cache
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\bin\Debug\net6.0\Lekcja7-operatory.exe
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\bin\Debug\net6.0\Lekcja7-operatory.deps.json
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\bin\Debug\net6.0\Lekcja7-operatory.runtimeconfig.json
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\bin\Debug\net6.0\Lekcja7-operatory.dll
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\bin\Debug\net6.0\Lekcja7-operatory.pdb
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\Lekcja7-operatory.dll
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\refint\Lekcja7-operatory.dll
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\Lekcja7-operatory.pdb
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\Lekcja7-operatory.genruntimeconfig.cache
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lekcja7-operatory\Lekcja7-operatory\obj\Debug\net6.0\ref\Lekcja7-operatory.dll
